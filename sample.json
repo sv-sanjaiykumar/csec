@@ -1,0 +1,65 @@
+[
+  {
+    "id": 2,
+    "name": "John Doe",
+    "age": 30,
+    "city": "New York",
+    "amount": 200
+  },
+  {
+    "id": 3,
+    "name": "Jane Doe",
+    "age": 21,
+    "city": "Landon",
+    "amount": 300
+  },
+  {
+    "id": 4,
+    "name": "khan",
+    "age": 25,
+    "city": "mumbai",
+    "amount": 400
+  },
+  {
+    "id": 5,
+    "name": "sam",
+    "age": 20,
+    "city": "los vegas",
+    "amount": "400"
+  },
+  {
+    "id": 6,
+    "name": "John",
+    "age": 23,
+    "city": "paris",
+    "amount": "600"
+  },
+  {
+    "id": 6,
+    "name": "sam",
+    "age": 20,
+    "city": "los vegas",
+    "amount": "400"
+  },
+  {
+    "id": 7,
+    "name": "John",
+    "age": 23,
+    "city": "paris",
+    "amount": "600"
+  },
+  {
+    "id": 5,
+    "name": "sam",
+    "age": 20,
+    "city": "los vegas",
+    "amount": "400"
+  },
+  {
+    "id": 6,
+    "name": "John",
+    "age": 23,
+    "city": "paris",
+    "amount": "600"
+  }
+]
